@@ -1,3 +1,0 @@
-<head>
-<body>www.google.com</body>
-</head>
